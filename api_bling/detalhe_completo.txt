@@ -1,0 +1,120 @@
+{
+    "data": {
+        "id": 24377193003,
+        "numero": 2000009257357562,
+        "numeroLoja": "2000013905040884",
+        "data": "2025-11-19",
+        "dataSaida": "2025-11-19",
+        "dataPrevista": "0000-00-00",
+        "totalProdutos": 23,
+        "total": 23,
+        "contato": {
+            "id": 17785848933,
+            "nome": "PAULO A",
+            "tipoPessoa": "F",
+            "numeroDocumento": "041.571.736-19"
+        },
+        "situacao": {
+            "id": 452827,
+            "valor": 0
+        },
+        "loja": {
+            "id": 205282672
+        },
+        "numeroPedidoCompra": "",
+        "outrasDespesas": 0,
+        "observacoes": "",
+        "observacoesInternas": "",
+        "desconto": {
+            "valor": 0,
+            "unidade": "REAL"
+        },
+        "categoria": {
+            "id": 0
+        },
+        "notaFiscal": {
+            "id": 24377193951
+        },
+        "tributacao": {
+            "totalICMS": 0,
+            "totalIPI": 0
+        },
+        "itens": [
+            {
+                "id": 18823564152,
+                "codigo": "STV3P-CNT",
+                "unidade": "UN",
+                "quantidade": 1,
+                "desconto": 0,
+                "valor": 23,
+                "aliquotaIPI": 0,
+                "descricao": "Controle Remoto Cinza para Smart Box STV-3000 PLUS - Aquário",
+                "descricaoDetalhada": "",
+                "produto": {
+                    "id": 16516096098
+                },
+                "comissao": {
+                    "base": 0,
+                    "aliquota": 0,
+                    "valor": 0
+                },
+                "naturezaOperacao": {
+                    "id": 0
+                }
+            }
+        ],
+        "parcelas": [
+            {
+                "id": 18643464280,
+                "dataVencimento": "2025-12-19",
+                "valor": 23,
+                "observacoes": "Método de pagamento: visa | Pedidos Vinculados: 2000013905040884",
+                "caut": "",
+                "formaPagamento": {
+                    "id": 3821505
+                }
+            }
+        ],
+        "transporte": {
+            "fretePorConta": 0,
+            "frete": 0,
+            "quantidadeVolumes": 1,
+            "pesoBruto": 0,
+            "prazoEntrega": 0,
+            "contato": {
+                "id": 0,
+                "nome": ""
+            },
+            "etiqueta": {
+                "nome": "Paulo Alessandro Ribeiro da Silva",
+                "endereco": "Estrada Das Furnas",
+                "numero": "SN",
+                "complemento": "Pousada vila magica Referencia: Pousada",
+                "municipio": "Bueno Brandão",
+                "uf": "MG",
+                "cep": "37578000",
+                "bairro": "Centro",
+                "nomePais": ""
+            },
+            "volumes": [
+                {
+                    "id": 15879836598,
+                    "servico": "Normal (100009)",
+                    "codigoRastreamento": "694bbc47-e169-53e8-9523-44c0602bf577"
+                }
+            ]
+        },
+        "vendedor": {
+            "id": 0
+        },
+        "intermediador": {
+            "cnpj": "03.007.331/0001-41",
+            "nomeUsuario": "MVIRTUAR"
+        },
+        "taxas": {
+            "taxaComissao": 9.24,
+            "custoFrete": 0,
+            "valorBase": 23
+        }
+    }
+}
